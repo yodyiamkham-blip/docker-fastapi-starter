@@ -41,7 +41,7 @@ uvicorn app.main:app --reload
 
 Open in your browser:
 
-- Home page: http://127.0.0.1:8000/
-- Health check: http://127.0.0.1:8000/health
-- Swagger docs: http://127.0.0.1:8000/docs
-- Redoc: http://127.0.0.1:8000/redoc
+- Home page: http://127.0.0.1:1/
+- Health check: http://127.0.0.1:1/health
+- Swagger docs: http://127.0.0.1:1/docs
+- Redoc: http://127.0.0.1:1/redoc
